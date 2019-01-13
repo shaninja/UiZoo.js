@@ -1,7 +1,7 @@
 version: 2
 dependencies:
 - type: js
-  path: .
+  # path: .
   settings:
     # set the NODE_ENV env variable
     # default: development
